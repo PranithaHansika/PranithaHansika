@@ -21,13 +21,19 @@
 
 ### 👋 Hello, I'm Pranitha Hansika Kataram
 
-🎓 B.Tech CSE Student at **CMR Institute of Technology**  
-🚀 Passionate about **AI, Cloud, and Full-Stack Development**  
-🏆 Hackathon Enthusiast | Solo Developer | Open Source Contributor  
+🎓 Final-year B.Tech CSE Student at **CMR Institute of Technology, Hyderabad**  
+🚀 Passionate about **Full-Stack Development, AI**, and **Cybersecurity**  
+🏆 Hackathon Enthusiast | Problem Solver | Open Source Contributor  
 
 ---
 
 ### 🛠 Tech Stack
+
+**Programming Languages:** C, Java, Python  
+**Web Development:** HTML, CSS, JavaScript, React.js, Node.js  
+**Databases & Tools:** SQL, DBMS, MongoDB, Git & GitHub  
+**CS Concepts:** OOP, Operating Systems, Computer Networks  
+**Soft Skills:** Teamwork, Communication, Analytical Thinking, Adaptability
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,nodejs,mongodb,mysql,git" />
@@ -35,26 +41,38 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<marquee behavior="scroll" direction="left" scrollamount="10">
-  🚀 IndoNav Indoor Navigation &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  📄 AI Server Log Analyzer &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  💡 Portfolio Website
-</marquee>
+### 🚀 Projects
 
 #### 🧭 IndoNav – Indoor Navigation System  
-> Campus-based route navigation with Dijkstra's algorithm  
-🔗 Demo: https://indonav-1.onrender.com  
-🔗 Code: https://github.com/PranithaHansika/CAMPUS-INDOOR-NAVIGATION-SYSTEM/tree/main/IndoNav-master
+> Web-based navigation for CMRIT using Dijkstra’s Algorithm  
+🔧 Tech Stack: HTML, CSS, JavaScript, Python, Flask, jQuery  
+✅ Key Achievements:
+- Optimized route efficiency using Dijkstra’s algorithm  
+- Reduced query time significantly  
+- Improved backend performance by 40%  
+🔗 [GitHub Repo →](https://github.com/PranithaHansika/CAMPUS-INDOOR-NAVIGATION-SYSTEM)
 
-#### 🧠 AI-Powered Server Log Management  
-> Flask-based tool for real-time log parsing and alerts  
-🔗 Repo: https://github.com/PranithaHansika/AI-Powered-Server-Log-Management-Software
+#### 🧠 AI-Powered Log Manager  
+> Real-time log analysis tool for cybersecurity professionals  
+🔧 Tech Stack: HTML, CSS, JavaScript, Python, Flask, Regex  
+✅ Key Achievements:
+- Built AI-powered log parser and visualizer  
+- Improved error detection by 60% with Regex  
+- Enabled real-time alerts reducing response time by 45%  
+🔗 [GitHub Repo →](https://github.com/PranithaHansika/AI-Powered-Server-Log-Management-Software)
 
 #### 🌐 Portfolio Website  
-> Modern responsive portfolio with Vercel  
-🔗 Live: https://pranithahansika.vercel.app/
+> Modern responsive portfolio deployed on Vercel  
+🔗 Live: https://my-portfolio-five-dun-12.vercel.app/
+
+---
+
+### 🏅 Achievements
+
+- 💡 Smart Coder Certification (DSA) – Smart Interviews  
+- ☕ Basics of Java – HackerRank  
+- 🗄️ SQL & RDBMS – IBM  
+- 🛠️ DevOps Internship – EDUGENE Technologies  
 
 ---
 
@@ -67,14 +85,19 @@
 
 ---
 
-## 📬 Connect with me
+## 📬 Get in Touch
+
+📩 Email: [pranithahansika.kataram@gmail.com](mailto:pranithahansika.kataram@gmail.com)  
+📱 Phone: +91 8688644651  
+📍 Location: Hyderabad, India  
 
 <p align="left">
   <a href="https://github.com/PranithaHansika" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/kataram-pranitha-hansika-849275299/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/22R01A05M6/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%2300CCBB.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://pranithahansika.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://my-portfolio-five-dun-12.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:pranithahansika.kataram@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
+
