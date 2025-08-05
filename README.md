@@ -94,6 +94,8 @@
   <a href="https://leetcode.com/22R01A05M6/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%2300CCBB.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://my-portfolio-five-dun-12.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:pranithahansika.kataram@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/pranitham6" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/22r01a05m6" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
 
 ---
