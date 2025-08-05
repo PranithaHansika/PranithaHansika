@@ -66,10 +66,11 @@
 
 ### 🏅 Achievements
 
-- 💡 Smart Coder Certification (DSA) – Smart Interviews  
-- ☕ Basics of Java – HackerRank  
-- 🗄️ SQL & RDBMS – IBM  
-- 🛠️ DevOps Internship – EDUGENE Technologies  
+- 🏆 [Basics of Java Certification – HackerRank](https://www.hackerrank.com/certificates/0e48078be8ef)
+- 🧠 [Smart Coder Certification (DSA Training) – Smart Interviews](https://smartinterviews.in/certificate/54d4c0db)
+- 🗄️ [SQL and Relational Database Certification – IBM](https://courses.cognitiveclass.ai/certificates/ab664dc1f8234a35987d71b9e7b4beb2)
+- 🛠️ [DevOps Internship Certificate – EDUGENE Technologies](https://drive.google.com/file/d/17XFg81ATOXVymvIZd9Kg-GC2Pf-TBr_S/view?usp=sharing)
+  
 
 ---
 
