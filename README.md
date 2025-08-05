@@ -22,18 +22,15 @@
 ### 👋 Hello, I'm Pranitha Hansika Kataram
 
 🎓 Final-year B.Tech CSE Student at **CMR Institute of Technology, Hyderabad**  
-🚀 Passionate about **Full-Stack Development, AI**, and **Cybersecurity**  
-🏆 Hackathon Enthusiast | Problem Solver | Open Source Contributor  
+🚀 I'm passionate about **software development, web technologies**, and **databases**  
+💻 Skilled in **C, Java, Python**, and modern web tools like **HTML, CSS, JavaScript, React.js, and Node.js**  
+🏆 Hackathon Enthusiast | Problem Solver | Open Source Contributor
+ 
 
 ---
 
 ### 🛠 Tech Stack
 
-**Programming Languages:** C, Java, Python  
-**Web Development:** HTML, CSS, JavaScript, React.js, Node.js  
-**Databases & Tools:** SQL, DBMS, MongoDB, Git & GitHub  
-**CS Concepts:** OOP, Operating Systems, Computer Networks  
-**Soft Skills:** Teamwork, Communication, Analytical Thinking, Adaptability
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,nodejs,mongodb,mysql,git" />
@@ -88,7 +85,6 @@
 ## 📬 Get in Touch
 
 📩 Email: [pranithahansika.kataram@gmail.com](mailto:pranithahansika.kataram@gmail.com)  
-📱 Phone: +91 8688644651  
 📍 Location: Hyderabad, India  
 
 <p align="left">
